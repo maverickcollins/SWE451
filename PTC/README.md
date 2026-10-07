@@ -1,41 +1,114 @@
-This is a Collaborative Learning Community (CLC) assignment.
+# Software Development Life Cycle (SDLC) I
 
-Having project management methods aligned to an individual organization's needs ensures productive and efficient work processes.
+**SWE-451 | 2 Credits**  
+**Grand Canyon University**
 
-Note: Each course assignment will inform the next until the final presentation.
+## Phoenix Tech Consulting
 
-As a team, select a company within the software development field. Then, complete the following scenario.
+**Consulting Team**
 
-Scenario: As a consultant group, you have been tasked to help the company improve their project management processes. In a brief presentation to the major stakeholders, you will present the cost comparison and benefits of using one recommended project management model over the various other models. The goal is to lead the company to one you recommend as the best fit for the company. The models to be considered are: Waterfall, Agile, Waterfall-Agile hybrid, Scrum, Kanban, and Lean Development.
+- Asagai Barbee
+- David Enriquez
+- Jace Lorenzo
+- Maverick Collins
 
-In this course, you will implement an Agile approach to software development, which requires the regular tracking of tasks in a web-based, task management tool called GitHub Projects. You will perform weekly tasks (individually assigned in GitHub Projects) and report on them. The submission of this and subsequent assignments, must include a link to the GitHub Projects board. You must invite the instructor to your GitHub Projects board to track progress on your activities.
+## Course Description
 
-All project documents will be hosted on GitHub.
+This course explores the **Software Development Life Cycle (SDLC)**, including the tools, artifacts, delivery practices, team infrastructure, and resource estimation techniques used to support quality software development. The course examines traditional software delivery methodologies as well as Agile and Lean approaches through individual and collaborative projects.
 
-Within the presentation address:
+**Prerequisite:** SWE-310
 
-The organization's essential business activities.
+## Instructor
 
-Each model's approach towards project management, the pros and cons, and tools or resources that will be gained. How could each provide continuous improvement? How could each provide a balanced approach to project management considering developer, infrastructure, and operations roles?
+**Professor Bill Hughes**  
+College of Technology & Engineering  
+Grand Canyon University
 
-Each model's relation to the software development life cycle (SDLC).
+## Project Overview
 
-Cost analysis and benefits of each.
+This repository contains the collaborative project work of **Phoenix Tech Consulting** for **SWE-451: Software Development Life Cycle (SDLC) I**.
 
-Final recommendation of the best approach for the company.
+Throughout the course, Phoenix Tech Consulting acts as a **software consulting group** tasked with evaluating and improving the software development and project management practices of a selected organization. Each major assignment builds upon the previous work and contributes toward a final consultation presentation.
 
-The resources required for the consulting group to successfully integrate the project management model.
+The project examines the organization's existing business and technology processes and develops recommendations involving project management, DevOps, cloud computing, IoT, big data, and Lean development practices.
 
-In addition, make sure to integrate a variety of visuals to support the presentation.
+## Project Management Methodologies
 
-Note: Presentations will be scheduled by the instructor.
+The project evaluates several software project management approaches:
 
-You will be graded on your ability to provide:
+- Waterfall
+- Agile
+- Waterfall-Agile Hybrid
+- Scrum
+- Kanban
+- Lean Development
 
-  A comprehensive and consistent focus throughout the presentation
-  
-  Effective communication in your awareness of the audience
-  
-  Professionalism
+Each methodology is evaluated based on its approach to project management, advantages and disadvantages, relationship to the SDLC, resource requirements, cost, benefits, and ability to support continuous improvement.
 
-While APA style is not required for the body of this assignment, solid academic writing is expected, and documentation of sources should be presented using APA formatting guidelines, which can be found in the APA Style Guide, located in the Student Success Center.
+Phoenix Tech Consulting will ultimately recommend the methodology that best aligns with the selected organization's requirements.
+
+## Course Project Progression
+
+### Project Management
+
+Evaluate the organization's essential business activities and compare software project management methodologies to determine the most appropriate approach.
+
+### DevOps Adoption
+
+Develop a **DevOps vision** for the organization that integrates development, infrastructure, and operations. This phase examines areas such as:
+
+- Version control
+- Continuous integration and deployment
+- Quality assurance and testing
+- Performance monitoring
+- Incident management
+- Authentication and authorization
+- Cross-team collaboration
+
+### Cloud, IoT, and Big Data
+
+Evaluate opportunities to integrate **cloud computing, Internet of Things (IoT), and big data** into the organization's business services.
+
+This phase includes evaluating cloud deployment models, developing cloud architecture, integrating DevOps with cloud development, and examining the use of connected devices and data analytics.
+
+### Lean Delivery
+
+Apply **Lean development principles** to identify value, reduce waste, improve development processes, and promote continuous improvement within the organization.
+
+### Final Consultation
+
+The project culminates in a consultation presentation that combines the team's findings and recommendations into a unified strategy addressing:
+
+- Essential business activities
+- Business and technology assessment
+- Recommended project management methodology
+- DevOps vision
+- Cloud, IoT, and big data integration
+- Lean development and continuous improvement
+
+## Project Management & Collaboration
+
+Phoenix Tech Consulting uses an **Agile approach** throughout the project.
+
+Project tasks, responsibilities, deadlines, and progress are tracked using **GitHub Projects and Jira**, while project documentation and artifacts are maintained using **GitHub and Confluence** as required throughout the course.
+
+## Tools & Technologies
+
+Technologies and platforms used or explored during the course include:
+
+- Git & GitHub
+- GitHub Projects
+- Jira
+- Confluence
+- Draw.io
+- Python
+- DevOps platforms
+- Cloud computing platforms
+- IoT technologies
+- Big data technologies
+
+## Repository Purpose
+
+This repository serves as the centralized location for **Phoenix Tech Consulting's** SWE-451 project artifacts, including research, technical documentation, diagrams, presentations, analyses, and supporting materials.
+
+The repository will continue to evolve as each phase of the semester-long consulting project is completed.
